@@ -8,3 +8,4 @@ To use:
 3. Run!
 
 Now you can copy on one machine and paste on the other...
+NOTE: this only works with text currently!
