@@ -70,4 +70,4 @@ if __name__ == "__main__":
 	thread2.start()
 
 while 1:
-	pass
+	time.sleep(.5)	# uses less CPU than pass
